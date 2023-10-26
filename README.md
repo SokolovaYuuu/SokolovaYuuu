@@ -2,6 +2,9 @@
   <h1>Hi, I’m Julia</h1>
   <h3>Data analyst</h3>
   <h3>I have just finished my study as a data analyst, and I'm happy about it. Here are some of my student projects</h3>
+  <h3>I learned to use python and SQL to work with Power BI.</h3>
+  <h3>I have more than 5 years of experience in cross-border e-commerce, speak Russian, German and English.</h3>
+  
 </div>
 
 <div id="socials" align="center">
