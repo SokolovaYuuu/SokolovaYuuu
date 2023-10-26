@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>Hi, I’m Julia</h1>
   <h3>Data analyst</h3>
+  <h3>I have just finished my study as a data analyst, and I'm happy about it. Here are some of my student projects</h3>
 </div>
 
 <div id="socials" align="center">
