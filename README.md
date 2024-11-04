@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi, I’m Julia</h1>
   <h3>Data analyst</h3>
-  <h3>I have just finished my study as a data analyst, and I'm happy about it. Here are some of my student projects. I learned to use python and SQL to work with Power BI. I have more than 5 years of experience in cross-border e-commerce, speak Russian, German and English.</h3>
+  <h3>I have finished my study as a data analyst, and I'm happy about it. Here are some of my student projects. I learned to use python and SQL, to work with Power BI. I have more than 6 years of experience in cross-border e-commerce, speak Russian, German and English.</h3>
   
 </div>
 
